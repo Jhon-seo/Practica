@@ -1,0 +1,11 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+*{
+    padding: auto;
+    margin: auto;
+}
+
+.Personaje{
+    display: flex;
+
+}
